@@ -1,6 +1,6 @@
-# [Clone Users public Github repos]
+# [Clone Users Public Github Repositories]
 
-A script to clone specific users public Github repositories with customisation options
+A script to clone specific users public Github repositories in bulk with customisation options
 
 ## Background
 - If you need to download a users public Github repositories then doing it manually takes time
